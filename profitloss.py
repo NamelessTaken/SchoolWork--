@@ -5,6 +5,6 @@ if(cost > sale):
    print("Total Loss Amount = {0}".format(amount))
 elif(sale > cost):
    amount = sale - cost
-   print("Total Profit = {0}".format(amount))
+   print("Total Profit =".format(amount))
 else:
    print("No Profit No Loss!!!")
